@@ -1,0 +1,179 @@
+@media (max-width: 1200px){
+.abut-img {
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
+.silder-content h2{
+	font-size: 50px;
+}
+.silder-content .p {
+	font-size: 20px;
+}
+ .silder img{
+ 	height: 500px;
+ }
+ .what-img{
+ 	top: 0;
+ }
+.have-item .button{
+	font-size: 15px;
+	margin-left: 40%;
+	transform: translate(-50%, 50%);
+}
+.our-item .calendar{
+	bottom: 215px;
+}
+
+}
+/*---------992------------*/
+@media (max-width: 992px) { 
+
+.top-bar-flex{
+	display: block;
+	text-align: center;
+}
+.top-left ul{
+	display: inline-block;
+}
+.top-right ul {
+	margin-left: 50%;
+	transform: translateX(-25%);
+}
+.form-box-1 {
+    bottom: 2px;
+    width: 70%;
+}
+.abut-img {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.silder-content h2{
+	font-size: 40px;
+}
+.silder-content .p {
+	font-size: 16px;
+} 
+ .silder-content{
+ 	position: absolute;
+ 	bottom: 50%;
+ 	right: 0;
+ 	left: 0;
+ 	transform: translate(0%, 50%);
+ 	padding-left: 60px;
+ 	padding-right: 60px;
+ }
+ .silder img{
+ 	height: 500px;
+ }
+.top-arrow{
+	right: 40px;
+}
+.top-arrow a i{
+	font-size: 35px;
+	color: red;
+	background: rgba(255,90,0,0.0);
+	padding: 5px 5px;
+}
+.recent-list ul li{
+	height: 50px;
+	width: 100px;
+	border: #fff solid 2px;
+	text-align: center;
+	background: rgba(0,255,0,0.2);
+	border-radius: 10px;
+	color: red;
+}
+  .recent-list ul li:after{
+  	height: 0px;
+ }
+.recent-list .mixitup-control-active{
+	background: red;
+	color: #fff;
+}
+.have-item .button{
+	font-size: 15px;
+	padding: 10px 30px;
+	margin-left: 40%;
+	transform: translate(-50%, 50%);
+}
+.our-item .calendar{
+	bottom: 235px;
+}
+.hover-item-icon ul{
+	padding: 17px 5px;
+}
+.hover-item-icon ul a i {
+	padding-right: -4px;
+}
+.biznes-item-1 img{
+	transform: translateX(-60%);
+}
+.biznes-item-1 ul{
+	margin-left: -65px;
+}
+
+}
+/*---------------765---------------------*/
+@media (max-width: 765px){
+	.top-right ul {
+	transform: translateX(-30%);
+}
+.silder-content h2{
+	font-size: 30px;
+}
+.silder-content .p {
+	font-size: 11px;
+}
+ .silder img{
+ 	height: 500px;
+ }
+ .top-arrow{
+	right: 20px;
+}
+ .tab-item img{
+ 	margin-top: -180px;
+ }
+.have-item .button{
+	font-size: 12px;
+}
+.our-item .calendar{
+	bottom: 210px;
+}
+.team-item img{
+	height: 558px;
+	margin-bottom: 5px;
+}
+.team-item:hover .background-hover{
+	height: 510px;
+}
+.biznes-item-1 ul{
+	margin-left: 50%;
+	transform: translateX(-60%);
+}
+}
+/*---------------576--------------------*/
+@media (max-width: 576px){
+	.top-right ul {
+	transform: translateX(-35%);
+}
+.silder-content h2{
+	font-size: 20px;
+}
+.silder-content .p {
+	font-size: 8px;
+}
+ .silder img{
+ 	height: 500px;
+ }
+ .top-arrow{
+	right: 0px;
+}
+.have-item .button{
+	font-size: 8px;
+	margin-left: 50%;
+	transform: translate(-50%, 50%);
+}
+.our-item .calendar{
+	bottom: 240px;
+}
